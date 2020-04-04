@@ -6072,11 +6072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\м1\\source\\repos\\PracticeTut\\PracticeTut\\PracticeTut.csproj",
+      "projectUniqueName": "C:\\Users\\м1\\Desktop\\Git\\dotNetCore\\PracticeTut\\PracticeTut\\PracticeTut.csproj",
       "projectName": "PracticeTut",
-      "projectPath": "C:\\Users\\м1\\source\\repos\\PracticeTut\\PracticeTut\\PracticeTut.csproj",
+      "projectPath": "C:\\Users\\м1\\Desktop\\Git\\dotNetCore\\PracticeTut\\PracticeTut\\PracticeTut.csproj",
       "packagesPath": "C:\\Users\\м1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\м1\\source\\repos\\PracticeTut\\PracticeTut\\obj\\",
+      "outputPath": "C:\\Users\\м1\\Desktop\\Git\\dotNetCore\\PracticeTut\\PracticeTut\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\м1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -30,8 +30,8 @@ namespace PracticeTut
             app.UseMvc(routes =>
               {
                   routes.MapRoute(
-                      name: "default",
-                      template: "{controller=Hello}/{action=Index}/{id?}");
+                        name: "default",
+                        template: "{controller=Hello}/{action=Index}/{id?}");
               });
             app.UseStaticFiles();
 
