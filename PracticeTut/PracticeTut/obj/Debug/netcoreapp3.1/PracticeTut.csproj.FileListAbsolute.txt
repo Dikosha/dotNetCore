@@ -195,7 +195,6 @@ C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp
 C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\PracticeTut.TagHelpers.input.cache
 C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\PracticeTut.TagHelpers.output.cache
 C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\PracticeTut.RazorCoreGenerate.cache
-C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Index.cshtml.g.cs
 C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\PracticeTut.RazorTargetAssemblyInfo.cache
 C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\PracticeTut.RazorTargetAssemblyInfo.cs
 C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\PracticeTut.Views.pdb
@@ -205,3 +204,4 @@ C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp
 C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\Razor\Views\Messages\ShowMessage.cshtml.g.cs
 C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Layout.cshtml.g.cs
 C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\Razor\Views\Calculator\Result.cshtml.g.cs
+C:\Users\м1\Desktop\Git\dotNetCore\PracticeTut\PracticeTut\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
